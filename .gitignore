@@ -1,0 +1,9 @@
+# Downloaded symbols and build output
+.alpackages/
+.snapshots/
+.output/
+*.app
+
+# Environment-specific settings (contain tenant ID)
+.vscode/launch.json
+.vscode/rad.json
